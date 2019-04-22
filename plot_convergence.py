@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 def plot_convergence (loss_history,
                       W_history, b_history, 
                       W_actual, b_actual):
