@@ -18,3 +18,4 @@ def generate_dataset(W_actual=1.5, b_actual=0.5,
     y_true = x_true * W_actual + b_actual
     
     return(x_data,y_data,x_true,y_true)
+  
