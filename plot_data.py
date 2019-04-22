@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 def plot_data (x_batch,y_batch,y_pred_batch,x_true,y_true):
     
     plt.style.use('dark_background')
