@@ -52,7 +52,7 @@ def plot_convergence (loss_history,
                         fancybox=True,
                         framealpha=0.8,
                         facecolor="gray",frameon=True) 
-    fig.suptitle('GRADIENT DESCENT OPTIMIZER AT WORK', fontsize=16)
+    fig.suptitle('OPTIMIZER AT WORK', fontsize=16)
         
     plt.show()
     
