@@ -1,3 +1,5 @@
+import numpy as np
+
 def generate_dataset(W_actual=1.5, b_actual=0.5, 
                      npoints=100,
                      x_random=False,x_start=0, x_range=1,
